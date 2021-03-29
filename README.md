@@ -2,7 +2,7 @@
 
 <p>Segundo entregável referente a solução desenvolvida para o Hackathon Smiles.<p/>
 
-<p> Neste repositório, foram incluidos arquivos desenvolvidos no software Android Studio, pois a intenção era um prrotótipo na versão mobile. <p/>
+<p> Neste repositório, foram incluidos arquivos desenvolvidos no software Android Studio, pois a intenção era um protótipo na versão mobile. <p/>
 
 
 <h2>Time 68 - Integrantes: <h2/>
@@ -15,8 +15,7 @@
 </ul>
  
  
-<p> Para executar este projeto faça um git clone em uma pasta na sua máquina, logo em seguida acesse o arquivo "splash.html" dentro da pasta "html".
-Pronto, o prtótipo já pode ser usado!<p/>
+<p> Para executar este projeto é necessário ter o software Android Studio instalado na máquina e uma AVD Manager (Emulador de dispositivos móveis). Logo em seguida, faça um git clone em uma pasta e abra o projeto com o software já citado. Compile o projeto na AVD e veja o protótivo funcionando no emulador!<p/>
 
 <h2>Descritivo – Tecnologias – Smiles Plan<h2/>
 
