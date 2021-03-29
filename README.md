@@ -5,7 +5,7 @@
 <p> Neste repositório, foram incluidos arquivos desenvolvidos no software Android Studio, pois a intenção era um prrotótipo na versão mobile. <p/>
 
 
-<h2>Time 68 <h2/>
+<h2>Time 68 - Integrantes: <h2/>
 
 <h2>Beatriz Hirahara<h2/>
 <h2>Cândida Rosa<h2/>
