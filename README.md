@@ -7,7 +7,7 @@
 
 <h2>Time 68 <h2/>
 
-<h3>Beatriz Hirahara<h3/>
-<h2>Cândida Rosa<h3/>
-<h3>Carmen Benetti<h3/>
-<h3>Lucas Machado<h3/>
+<h2>Beatriz Hirahara<h2/>
+<h2>Cândida Rosa<h2/>
+<h2>Carmen Benetti<h2/>
+<h2>Lucas Machado<h2/>
